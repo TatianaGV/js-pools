@@ -1,9 +1,7 @@
-# Poll App
 
-# Development
+# Development Pool App
 
 ```
-cd mmcs-cross-lab-6
 npm install
 npm start
 ```
